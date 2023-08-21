@@ -1,5 +1,5 @@
 # J.A.R.V.I.S RAT
-![Banner](https://github.com/K3rnel-Dev/HiddenCLI/blob/main/banner.jpg)
+![Banner](https://github.com/K3rnel-Dev/JarvisRat/blob/main/banner.jpg)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 
 ### About
