@@ -1,6 +1,6 @@
 # J.A.R.V.I.S RAT
-![Banner](https://github.com/K3rnel-Dev/JarvisRat/blob/main/banner.jpg)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![Banner](https://github.com/K3rnel-Dev/JarvisRat/blob/main/banner.jpg)
 
 ### About
 <strong>Jarvis Rat - программа удаленного доступа для скрытного доступа, в скрипте есть много функций<br>
